@@ -2,7 +2,7 @@
 
 I'm **Serhii Khalymon** — a Senior Backend Engineer and Systems Designer with 10+ years of hands-on experience in **Rust**, **Python**, and distributed, cloud-native systems. I build things that scale, perform, and last.
 
-🔭 **Current Focus**: consulting service via my company [Fluxomnia s.r.o.](https://www.linkedin.com/company/fluxomnia-systems)  
+🔭 **Current Focus**: consulting services via my company [Fluxomnia s.r.o.](https://www.linkedin.com/company/fluxomnia-systems)  
 🛠 **Recent Stack**: Rust, Python, Axum, Diesel, FFmpeg, Docker, Selenium, GraphQL  
 🎓 **Background**: RTSLA @ KhAI • PTKiSumDU  
 🌍 **Location**: Slovakia (originally from Ukraine)  
