@@ -37,7 +37,8 @@ CI/CD Pipelines (Coursera), OOP Design (Univ. of Alberta), Software Architecture
 ### 🙌 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/serhii-khalymon)
-- ✨ [Full project list](https://github.com/eirenik0?tab=repositories)
+- ✨ [Full personal projects list](https://github.com/eirenik0?tab=repositories)
+- ✨ [Fluxomnia projects list](https://github.com/eirenik0?tab=repositories)
 
 ---
 
